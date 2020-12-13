@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KulinerIndonesia</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="profile">Profile</string>
+    <string name="nama_profil">Edo Sugita Ibrahim</string>
+    <string name="email_profil">edosugita.es@gmail.com</string>
+    <string name="bahan">Bahan</string>
+    <string name="nama_bahan">Nama Bahan</string>
+    <string name="memasak">Memasak</string>
+    <string name="cara_memasak">Cara Memasak</string>
+    <string name="read_more">READ MORE</string>
+</resources>
